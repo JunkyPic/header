@@ -1,0 +1,15 @@
+{
+    "name": "header",
+    "description": "A simple headers lib",
+    "keywords": [ "header"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Header\\": "src/"
+        }
+    }
+}
