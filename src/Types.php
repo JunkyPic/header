@@ -2,6 +2,10 @@
 
 namespace Header;
 
+/**
+ * Class Types
+ * @package Header
+ */
 class Types{
     const ACCEPT = 'Accept: ';
     const ACCEPT_CHARSET = 'Accept-Charset: ';
